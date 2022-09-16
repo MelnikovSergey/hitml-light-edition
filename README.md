@@ -1,2 +1,2 @@
-# Hitml Light Edition  
-In the process..
+# Three Weeks in Paradise    
+Remake of a classic arcade game. In the process..
